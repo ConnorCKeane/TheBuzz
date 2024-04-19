@@ -1,9 +1,23 @@
-# CSE 216
-This is an individual student repository.  It is intended for use during phase 0.
-This README would normally document whatever steps are necessary to get your application up and running. *EXTRA*
+# my_tutorial_app
 
-## Details
-- Semester: Spring 2024
-- Student ID: cck226
-- Bitbucket Repository: https://bitbucket.org/cck226/cse216_sp24_tutorials_cck226
-- ElephantsSQL: https://api.elephantsql.com/console/8980f4d8-0e7f-4b8e-afad-e1d0a4a6b316/browser?
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
+## Instructions
+
+    -Connect with virtual device via command pallet
+    -use F5 to run and debug
+    -Import necesarry packages for developer and https
+    -Code and debug!
